@@ -8,6 +8,6 @@
 ### LSTM Architecture
 ![image.png](https://github.com/garg525modi/Stock-Market-Prediction-by-Recurrent-Neural-Network-on-LSTM-Model/blob/master/Images/LSTM.png)
 
-There are countless deep learning frameworks available today.we implments the RNN model by using Keras
+There are countless deep learning frameworks available today.we implements the RNN model by using Keras
 
 ![image.png](https://github.com/garg525modi/Stock-Market-Prediction-by-Recurrent-Neural-Network-on-LSTM-Model/blob/master/Images/keras.png)
